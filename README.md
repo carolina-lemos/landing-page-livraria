@@ -7,7 +7,7 @@ Pixel Books
 </h2>
 
 <p>
-Landing Page de uma livraria
+Landing Page de uma livraria para exercitar Html e CSS.
 </p>
 
 <h2>
@@ -22,3 +22,5 @@ Landing Page de uma livraria
 <h2>Desktop</h2>
 
 <img src="./assets/print-livraria.png"/>
+
+
